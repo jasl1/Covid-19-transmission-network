@@ -1,0 +1,852 @@
+source,destination,date
+china,usa,2020-02-10
+china,spain,2020-03-02
+china,australia,2020-01-31
+china,spain,2020-03-03
+china,india,2020-01-31
+china,united kingdom,2020-01-29
+china,united kingdom,2020-01-29
+china,south korea,2020-01-30
+china,south korea,2020-02-06
+china,usa,2020-01-22
+china,south korea,2020-01-31
+china,south korea,2020-01-25
+china,usa,2020-02-11
+china,australia,2020-01-24
+china,germany,2020-03-02
+china,new zealand,2020-03-15
+china,usa,2020-01-23
+china,vietnam,2020-02-11
+china,vietnam,2020-01-24
+china,vietnam,2020-01-24
+china,usa,2020-01-28
+australia,usa,2020-03-14
+australia,new zealand,2020-03-15
+china,australia,2020-02-05
+china,australia,2020-01-30
+china,australia,2020-02-08
+usa,senegal,2020-03-20
+china,usa,2020-02-06
+china,australia,2020-01-28
+china,australia,2020-02-05
+china,singapore,2020-02-03
+senegal,democratic republic of the congo,2020-03-22
+china,singapore,2020-02-18
+china,singapore,2020-01-27
+china,belgium,2020-02-03
+spain,usa,2020-03-18
+chile,colombia,2020-03-11
+spain,portugal,2020-03-20
+spain,australia,2020-02-23
+china,malaysia,2020-02-20
+china,australia,2020-01-24
+china,taiwan,2020-01-24
+china,taiwan,2020-01-31
+spain,france,2020-02-25
+spain,netherlands,2020-03-11
+spain,georgia,2020-03-08
+spain,brazil,2020-03-16
+spain,usa,2020-03-04
+spain,chile,2020-03-06
+brazil,senegal,2020-03-13
+spain,chile,2020-03-03
+spain,united kingdom,2020-03-14
+china,singapore,2020-01-29
+china,usa,2020-01-19
+china,malaysia,2020-02-20
+canada,usa,2020-03-03
+canada,usa,2020-03-09
+usa,canada,2020-03-12
+usa,australia,2020-03-15
+canada,usa,2020-03-21
+usa,canada,2020-03-08
+usa,canada,2020-03-05
+usa,canada,2020-03-11
+usa,canada,2020-03-10
+usa,australia,2020-03-20
+usa,australia,2020-03-14
+usa,iceland,2020-03-17
+usa,iceland,2020-03-12
+usa,iceland,2020-03-16
+australia,canada,2020-03-11
+australia,usa,2020-03-14
+australia,usa,2020-03-16
+usa,australia,2020-03-20
+usa,canada,2020-03-05
+usa,australia,2020-03-16
+usa,canada,2020-03-06
+usa,australia,2020-03-24
+usa,canada,2020-03-11
+usa,canada,2020-03-09
+usa,canada,2020-03-09
+usa,australia,2020-03-11
+usa,canada,2020-03-13
+usa,canada,2020-03-12
+usa,australia,2020-03-25
+usa,australia,2020-03-13
+usa,australia,2020-03-15
+usa,canada,2020-03-13
+china,india,2020-01-27
+china,singapore,2020-02-02
+china,netherlands,2020-03-09
+china,australia,2020-02-02
+china,usa,2020-01-31
+china,thailand,2020-01-08
+china,united kingdom,2020-03-21
+china,hong kong,2020-01-21
+malaysia,singapore,2020-01-25
+malaysia,singapore,2020-02-09
+china,singapore,2020-01-23
+china,taiwan,2020-02-05
+china,singapore,2020-03-12
+china,france,2020-01-29
+china,cambodia,2020-01-27
+united kingdom,iceland,2020-03-15
+united kingdom,portugal,2020-03-10
+united kingdom,iceland,2020-03-18
+china,thailand,2020-01-13
+china,hong kong,2020-02-19
+china,malaysia,2020-02-20
+china,usa,2020-01-21
+japan,ireland,2020-03-08
+netherlands,canada,2020-03-13
+netherlands,france,2020-03-06
+china,finland,2020-01-29
+china,hong kong,2020-02-17
+china,france,2020-02-08
+china,united kingdom,2020-02-08
+china,hong kong,2020-02-15
+china,united kingdom,2020-02-07
+china,united kingdom,2020-02-05
+china,south korea,2020-02-01
+china,hong kong,2020-02-23
+china,singapore,2020-03-06
+china,usa,2020-03-01
+netherlands,norway,2020-03-17
+netherlands,iceland,2020-03-17
+usa,singapore,2020-03-10
+singapore,pakistan,2020-03-12
+china,hong kong,2020-01-25
+china,nepal,2020-01-13
+netherlands,finland,2020-03-13
+china,japan,2020-01-23
+china,taiwan,2020-01-28
+china,usa,2020-01-27
+taiwan,japan,2020-01-25
+netherlands,ecuador,2020-03-09
+netherlands,australia,2020-03-19
+netherlands,united kingdom,2020-03-07
+netherlands,united kingdom,2020-03-02
+united kingdom,portugal,2020-03-17
+united kingdom,new zealand,2020-03-11
+netherlands,finland,2020-03-14
+netherlands,belgium,2020-03-24
+netherlands,usa,2020-03-07
+netherlands,slovakia,2020-03-08
+netherlands,germany,2020-03-11
+united kingdom,belgium,2020-03-06
+united kingdom,germany,2020-02-28
+united kingdom,belgium,2020-03-14
+united kingdom,germany,2020-02-28
+united kingdom,netherlands,2020-03-10
+united kingdom,poland,2020-03-03
+united kingdom,austria,2020-03-14
+germany,netherlands,2020-03-03
+united kingdom,netherlands,2020-03-09
+united kingdom,canada,2020-03-12
+united kingdom,finland,2020-03-14
+austria,iceland,2020-03-13
+united kingdom,australia,2020-03-17
+united kingdom,usa,2020-03-10
+united kingdom,belgium,2020-03-10
+germany,senegal,2020-03-17
+germany,austria,2020-02-26
+united kingdom,brazil,2020-03-03
+belgium,germany,2020-03-15
+china,australia,2020-01-22
+china,usa,2020-01-29
+china,canada,2020-01-23
+china,canada,2020-01-25
+china,canada,2020-01-25
+china,australia,2020-02-24
+china,france,2020-01-29
+australia,saudi arabia,2020-03-07
+australia,canada,2020-03-12
+australia,canada,2020-03-12
+japan,usa,2020-03-13
+japan,usa,2020-02-27
+japan,australia,2020-02-24
+australia,japan,2020-02-14
+australia,usa,2020-02-29
+china,hong kong,2020-02-22
+china,usa,2020-02-29
+china,hong kong,2020-02-01
+singapore,japan,2020-02-10
+singapore,australia,2020-02-22
+iran,pakistan,2020-03-04
+china,canada,2020-03-11
+china,georgia,2020-03-30
+china,netherlands,2020-03-06
+iran,usa,2020-02-29
+iran,canada,2020-02-20
+iran,canada,2020-02-16
+china,united kingdom,2020-02-28
+china,germany,2020-03-02
+iran,austria,2020-03-03
+iran,georgia,2020-02-28
+iran,democratic republic of the congo,2020-03-20
+iran,australia,2020-02-28
+iran,australia,2020-03-04
+iran,canada,2020-03-02
+iran,kuwait,2020-03-02
+iran,canada,2020-03-04
+iran,canada,2020-03-04
+iran,australia,2020-03-02
+iran,united kingdom,2020-03-02
+iran,norway,2020-02-26
+iran,australia,2020-02-29
+iran,australia,2020-03-06
+australia,united kingdom,2020-02-27
+iran,canada,2020-02-28
+iran,canada,2020-03-01
+iran,canada,2020-02-27
+iran,australia,2020-03-04
+iran,australia,2020-02-28
+new zealand,kuwait,2020-03-02
+iran,new zealand,2020-02-27
+hong kong,canada,2020-03-04
+china,taiwan,2020-01-23
+china,hong kong,2020-02-13
+china,usa,2020-01-22
+china,sweden,2020-02-07
+china,hong kong,2020-02-17
+china,hong kong,2020-02-13
+china,hong kong,2020-01-23
+china,hong kong,2020-02-11
+china,hong kong,2020-02-05
+china,australia,2020-01-25
+china,singapore,2020-01-27
+china,singapore,2020-02-10
+china,australia,2020-01-24
+china,france,2020-01-23
+china,france,2020-01-23
+china,france,2020-01-28
+china,singapore,2020-02-03
+china,hong kong,2020-01-30
+china,australia,2020-01-25
+china,australia,2020-01-25
+united kingdom,germany,2020-03-15
+china,italy,2020-01-29
+china,italy,2020-01-29
+spain,united kingdom,2020-03-22
+italy,iceland,2020-02-27
+australia,norway,2020-03-01
+australia,brazil,2020-03-18
+australia,united kingdom,2020-03-05
+china,united kingdom,2020-02-09
+australia,germany,2020-03-16
+australia,finland,2020-03-14
+usa,canada,2020-03-13
+united kingdom,germany,2020-03-14
+united kingdom,democratic republic of the congo,2020-03-20
+united kingdom,belgium,2020-03-24
+united kingdom,brazil,2020-02-29
+united kingdom,australia,2020-03-16
+united kingdom,usa,2020-03-23
+europe,canada,2020-03-05
+united kingdom,democratic republic of the congo,2020-03-17
+united kingdom,netherlands,2020-03-08
+united kingdom,australia,2020-03-19
+united kingdom,ireland,2020-03-10
+united kingdom,australia,2020-03-16
+united kingdom,australia,2020-03-24
+united kingdom,portugal,2020-03-18
+united kingdom,new zealand,2020-03-11
+united kingdom,australia,2020-03-24
+south korea,usa,2020-02-27
+south korea,usa,2020-02-29
+usa,australia,2020-03-18
+usa,united kingdom,2020-03-28
+usa,norway,2020-02-27
+united kingdom,slovenia,2020-03-05
+united kingdom,spain,2020-02-28
+usa,united kingdom,2020-03-08
+usa,switzerland,2020-02-26
+usa,netherlands,2020-03-13
+usa,china,2020-03-15
+usa,netherlands,2020-03-12
+italy,brazil,2020-02-28
+usa,france,2020-03-18
+usa,luxembourg,2020-03-09
+australia,singapore,2020-03-05
+usa,brazil,2020-03-04
+united kingdom,iceland,2020-03-16
+usa,united kingdom,2020-03-10
+australia,united kingdom,2020-03-05
+australia,united kingdom,2020-02-25
+australia,iceland,2020-03-15
+australia,usa,2020-03-11
+luxembourg,austria,2020-03-06
+luxembourg,netherlands,2020-03-07
+usa,luxembourg,2020-03-18
+united kingdom,australia,2020-03-18
+belgium,spain,2020-03-09
+netherlands,ireland,2020-03-10
+usa,united kingdom,2020-03-02
+usa,united kingdom,2020-03-16
+netherlands,luxembourg,2020-03-10
+usa,norway,2020-03-14
+united kingdom,netherlands,2020-03-13
+australia,taiwan,2020-03-13
+australia,portugal,2020-03-12
+china,japan,2020-01-25
+australia,belgium,2020-03-24
+china,japan,2020-01-29
+china,australia,2020-02-28
+china,taiwan,2020-02-04
+china,usa,2020-01-29
+china,belgium,2020-03-24
+china,spain,2020-03-09
+italy,belgium,2020-03-01
+belgium,china,2020-01-28
+belgium,germany,2020-01-28
+belgium,usa,2020-03-12
+italy,finland,2020-03-01
+belgium,usa,2020-03-13
+belgium,italy,2020-02-24
+belgium,usa,2020-03-12
+italy,finland,2020-03-03
+belgium,united kingdom,2020-03-12
+italy,finland,2020-02-25
+belgium,canada,2020-03-13
+belgium,united kingdom,2020-02-29
+belgium,united kingdom,2020-03-03
+belgium,switzerland,2020-02-27
+italy,india,2020-03-03
+italy,india,2020-03-03
+italy,india,2020-03-03
+italy,india,2020-03-03
+italy,india,2020-03-03
+belgium,denmark,2020-02-28
+belgium,denmark,2020-03-02
+belgium,luxembourg,2020-03-16
+belgium,portugal,2020-03-21
+italy,iceland,2020-03-02
+italy,iceland,2020-03-01
+portugal,georgia,2020-03-13
+usa,luxembourg,2020-03-18
+italy,luxembourg,2020-02-29
+belgium,luxembourg,2020-02-29
+usa,finland,2020-03-14
+usa,norway,2020-03-02
+united kingdom,denmark,2020-03-03
+united kingdom,finland,2020-03-14
+netherlands,taiwan,2020-03-19
+austria,iceland,2020-03-16
+austria,iceland,2020-03-16
+austria,germany,2020-03-16
+austria,netherlands,2020-03-12
+austria,germany,2020-03-16
+austria,iceland,2020-03-13
+united kingdom,australia,2020-03-13
+spain,iceland,2020-03-17
+belgium,denmark,2020-03-03
+switzerland,france,2020-03-23
+switzerland,portugal,2020-03-17
+switzerland,taiwan,2020-03-18
+belgium,usa,2020-03-22
+belgium,portugal,2020-03-18
+belgium,democratic republic of the congo,2020-03-18
+belgium,usa,2020-03-25
+belgium,france,2020-03-11
+canada,italy,2020-03-03
+canada,luxembourg,2020-03-15
+canada,netherlands,2020-02-29
+canada,switzerland,2020-02-24
+canada,france,2020-02-26
+austria,iceland,2020-03-13
+france,netherlands,2020-03-03
+australia,italy,2020-03-23
+canada,luxembourg,2020-03-18
+austria,iceland,2020-03-17
+canada,united kingdom,2020-03-26
+belgium,norway,2020-03-05
+belgium,slovakia,2020-03-06
+united kingdom,iceland,2020-03-16
+italy,iceland,2020-03-14
+belgium,united kingdom,2020-02-26
+belgium,portugal,2020-03-04
+belgium,norway,2020-03-08
+belgium,italy,2020-03-16
+belgium,luxembourg,2020-03-15
+belgium,luxembourg,2020-03-17
+belgium,italy,2020-03-19
+norway,united kingdom,2020-03-04
+iran,finland,2020-03-04
+italy,iceland,2020-03-13
+spain,usa,2020-02-28
+spain,austria,2020-03-16
+spain,usa,2020-03-01
+spain,united kingdom,2020-03-27
+spain,united kingdom,2020-03-02
+spain,usa,2020-03-23
+spain,usa,2020-03-15
+spain,portugal,2020-03-15
+australia,portugal,2020-03-20
+iceland,finland,2020-03-13
+australia,norway,2020-03-17
+spain,luxembourg,2020-03-11
+spain,austria,2020-03-10
+spain,switzerland,2020-02-27
+spain,italy,2020-03-04
+spain,iceland,2020-03-17
+spain,hungary,2020-03-17
+spain,australia,2020-03-13
+spain,hungary,2020-03-17
+spain,panama,2020-03-06
+spain,austria,2020-03-22
+spain,australia,2020-03-18
+spain,united kingdom,2020-03-19
+spain,austria,2020-03-23
+spain,finland,2020-03-14
+spain,switzerland,2020-02-27
+spain,portugal,2020-03-22
+spain,georgia,2020-03-16
+spain,usa,2020-03-16
+usa,norway,2020-03-09
+belgium,united kingdom,2020-02-26
+italy,brazil,2020-02-25
+italy,united kingdom,2020-02-27
+italy,spain,2020-03-09
+belgium,canada,2020-03-08
+australia,france,2020-03-23
+united kingdom,slovenia,2020-03-24
+united kingdom,usa,2020-03-14
+usa,senegal,2020-03-20
+switzerland,brazil,2020-03-19
+usa,japan,2020-03-11
+netherlands,georgia,2020-03-05
+brazil,france,2020-03-04
+united kingdom,brazil,2020-03-04
+netherlands,iceland,2020-03-13
+netherlands,iceland,2020-03-13
+united kingdom,belgium,2020-03-07
+usa,canada,2020-03-15
+usa,australia,2020-03-15
+united kingdom,iceland,2020-03-16
+united kingdom,brazil,2020-03-14
+united kingdom,italy,2020-03-23
+belgium,ireland,2020-03-03
+spain,iceland,2020-03-17
+france,iceland,2020-03-18
+france,iceland,2020-03-18
+italy,czech republic,2020-03-01
+belgium,netherlands,2020-03-02
+usa,australia,2020-03-17
+usa,finland,2020-03-13
+brazil,slovenia,2020-03-06
+belgium,portugal,2020-03-16
+usa,australia,2020-03-22
+japan,russia,2020-03-18
+australia,italy,2020-03-18
+austria,iceland,2020-03-11
+ireland,denmark,2020-03-03
+united kingdom,netherlands,2020-03-04
+united kingdom,ireland,2020-03-03
+united kingdom,brazil,2020-03-13
+australia,georgia,2020-03-10
+australia,united kingdom,2020-03-09
+australia,france,2020-03-17
+usa,united kingdom,2020-03-18
+belgium,south africa,2020-03-07
+switzerland,luxembourg,2020-03-15
+belgium,denmark,2020-03-01
+italy,spain,2020-03-11
+united kingdom,australia,2020-03-23
+united kingdom,australia,2020-03-22
+united kingdom,iceland,2020-03-12
+united kingdom,usa,2020-03-11
+united kingdom,italy,2020-03-14
+united kingdom,france,2020-03-22
+usa,germany,2020-03-12
+france,senegal,2020-03-17
+france,australia,2020-03-22
+france,luxembourg,2020-03-06
+france,luxembourg,2020-03-11
+france,argentina,2020-03-22
+france,luxembourg,2020-03-18
+france,australia,2020-03-22
+france,democratic republic of the congo,2020-03-26
+france,senegal,2020-03-13
+france,luxembourg,2020-03-18
+democratic republic of the congo,france,2020-03-24
+belgium,democratic republic of the congo,2020-03-26
+belgium,canada,2020-03-12
+france,canada,2020-03-12
+belgium,democratic republic of the congo,2020-03-21
+france,switzerland,2020-03-04
+belgium,democratic republic of the congo,2020-03-25
+belgium,switzerland,2020-03-03
+france,democratic republic of the congo,2020-03-19
+belgium,switzerland,2020-03-05
+france,switzerland,2020-03-06
+france,switzerland,2020-03-04
+france,luxembourg,2020-03-12
+france,democratic republic of the congo,2020-03-17
+france,belgium,2020-03-23
+france,switzerland,2020-03-08
+france,luxembourg,2020-03-08
+democratic republic of the congo,belgium,2020-03-23
+france,democratic republic of the congo,2020-03-22
+belgium,usa,2020-03-18
+italy,nigeria,2020-02-27
+belgium,canada,2020-03-12
+italy,netherlands,2020-02-28
+belgium,netherlands,2020-03-09
+italy,united kingdom,2020-03-02
+belgium,denmark,2020-02-26
+belgium,switzerland,2020-03-01
+belgium,usa,2020-02-29
+belgium,ireland,2020-03-08
+belgium,finland,2020-03-13
+belgium,portugal,2020-03-22
+belgium,united kingdom,2020-03-18
+belgium,australia,2020-03-18
+belgium,italy,2020-03-14
+belgium,usa,2020-03-14
+switzerland,iceland,2020-03-10
+belgium,usa,2020-03-03
+belgium,usa,2020-03-18
+belgium,usa,2020-03-10
+belgium,united kingdom,2020-03-18
+belgium,iceland,2020-03-18
+belgium,portugal,2020-03-12
+belgium,united kingdom,2020-03-28
+italy,austria,2020-02-26
+belgium,austria,2020-03-15
+united kingdom,germany,2020-03-11
+belgium,norway,2020-03-10
+belgium,united kingdom,2020-02-27
+united kingdom,canada,2020-03-14
+united kingdom,iceland,2020-03-13
+belgium,united kingdom,2020-03-08
+usa,brazil,2020-03-04
+belgium,switzerland,2020-03-02
+belgium,switzerland,2020-02-29
+italy,germany,2020-02-25
+switzerland,netherlands,2020-02-28
+switzerland,canada,2020-03-07
+switzerland,netherlands,2020-02-29
+belgium,switzerland,2020-02-29
+belgium,democratic republic of the congo,2020-03-22
+italy,switzerland,2020-02-27
+belgium,austria,2020-03-19
+united kingdom,switzerland,2020-02-27
+united kingdom,canada,2020-03-12
+united kingdom,australia,2020-03-20
+united kingdom,australia,2020-03-23
+portugal,belgium,2020-03-31
+united kingdom,portugal,2020-03-08
+united kingdom,spain,2020-03-02
+united kingdom,brazil,2020-03-13
+belgium,netherlands,2020-03-03
+belgium,australia,2020-03-08
+belgium,hungary,2020-03-20
+belgium,iceland,2020-03-16
+italy,switzerland,2020-02-26
+belgium,luxembourg,2020-03-12
+australia,portugal,2020-03-18
+switzerland,colombia,2020-03-06
+switzerland,united kingdom,2020-03-06
+switzerland,united kingdom,2020-03-26
+italy,switzerland,2020-02-29
+belgium,brazil,2020-03-04
+belgium,usa,2020-03-14
+belgium,switzerland,2020-02-27
+belgium,united kingdom,2020-03-28
+france,india,2020-03-03
+belgium,switzerland,2020-03-01
+belgium,usa,2020-03-14
+united kingdom,spain,2020-03-24
+usa,australia,2020-03-12
+united kingdom,iceland,2020-03-11
+united kingdom,iceland,2020-03-17
+united kingdom,russia,2020-03-18
+united kingdom,denmark,2020-03-02
+united kingdom,democratic republic of the congo,2020-03-21
+united kingdom,democratic republic of the congo,2020-03-28
+italy,finland,2020-03-03
+netherlands,belgium,2020-03-02
+netherlands,belgium,2020-03-05
+netherlands,france,2020-03-03
+netherlands,finland,2020-03-04
+germany,iceland,2020-03-14
+netherlands,ireland,2020-03-06
+netherlands,italy,2020-03-19
+netherlands,finland,2020-03-05
+netherlands,germany,2020-03-13
+austria,iceland,2020-03-16
+netherlands,iceland,2020-03-18
+netherlands,belgium,2020-03-09
+italy,iceland,2020-03-01
+italy,iceland,2020-03-03
+united kingdom,germany,2020-03-11
+italy,iceland,2020-03-02
+netherlands,iceland,2020-03-09
+netherlands,united kingdom,2020-03-09
+italy,netherlands,2020-02-24
+netherlands,belgium,2020-03-13
+italy,portugal,2020-03-01
+italy,iceland,2020-03-11
+italy,iceland,2020-03-09
+italy,brazil,2020-03-04
+italy,iceland,2020-03-04
+netherlands,united kingdom,2020-03-07
+italy,brazil,2020-03-03
+netherlands,portugal,2020-03-03
+italy,brazil,2020-03-02
+italy,iceland,2020-03-02
+italy,iceland,2020-03-02
+netherlands,united kingdom,2020-03-17
+netherlands,ireland,2020-03-02
+italy,iceland,2020-03-03
+netherlands,germany,2020-03-03
+netherlands,finland,2020-03-07
+austria,australia,2020-03-18
+netherlands,iceland,2020-03-10
+iceland,germany,2020-03-12
+netherlands,ireland,2020-03-06
+italy,iceland,2020-03-05
+italy,iceland,2020-03-09
+united kingdom,germany,2020-03-11
+united kingdom,canada,2020-03-05
+italy,brazil,2020-03-05
+italy,chile,2020-03-05
+united kingdom,netherlands,2020-03-06
+united kingdom,australia,2020-03-19
+belgium,ireland,2020-03-08
+italy,switzerland,2020-02-29
+italy,united kingdom,2020-02-29
+italy,mexico,2020-02-27
+usa,new zealand,2020-03-02
+usa,greece,2020-03-18
+netherlands,new zealand,2020-03-04
+belgium,australia,2020-03-24
+united kingdom,belgium,2020-03-24
+united kingdom,usa,2020-03-24
+united kingdom,belgium,2020-03-31
+united kingdom,portugal,2020-03-20
+united kingdom,portugal,2020-03-20
+netherlands,argentina,2020-03-07
+portugal,france,2020-03-16
+united kingdom,canada,2020-03-12
+united kingdom,greece,2020-03-18
+united kingdom,usa,2020-03-14
+japan,taiwan,2020-03-14
+spain,canada,2020-03-13
+portugal,belgium,2020-03-31
+belgium,vietnam,2020-03-07
+usa,canada,2020-03-13
+france,japan,2020-03-13
+united kingdom,iceland,2020-03-13
+united kingdom,australia,2020-03-18
+united kingdom,belgium,2020-03-25
+germany,iceland,2020-03-16
+united kingdom,portugal,2020-03-13
+australia,usa,2020-03-19
+australia,italy,2020-03-19
+usa,france,2020-03-22
+australia,belgium,2020-03-19
+belgium,portugal,2020-03-22
+belgium,netherlands,2020-03-04
+portugal,italy,2020-03-23
+portugal,italy,2020-03-23
+united kingdom,belgium,2020-03-30
+united kingdom,georgia,2020-04-01
+united kingdom,portugal,2020-03-21
+united kingdom,portugal,2020-03-21
+egypt,japan,2020-03-11
+usa,portugal,2020-03-11
+usa,netherlands,2020-03-10
+belgium,australia,2020-03-24
+united kingdom,portugal,2020-03-08
+united kingdom,italy,2020-03-23
+united kingdom,australia,2020-03-20
+united kingdom,belgium,2020-03-30
+italy,france,2020-03-18
+egypt,japan,2020-03-17
+italy,portugal,2020-03-17
+germany,iceland,2020-03-17
+usa,ireland,2020-03-10
+egypt,japan,2020-03-12
+egypt,japan,2020-03-12
+egypt,japan,2020-03-12
+egypt,portugal,2020-03-16
+united kingdom,italy,2020-03-23
+united kingdom,italy,2020-03-17
+united kingdom,portugal,2020-03-21
+united kingdom,usa,2020-03-25
+france,russia,2020-03-15
+france,portugal,2020-03-20
+france,canada,2020-03-13
+austria,iceland,2020-03-04
+france,iceland,2020-03-08
+france,finland,2020-03-13
+france,usa,2020-03-24
+france,canada,2020-03-09
+france,senegal,2020-03-19
+france,taiwan,2020-03-21
+france,slovakia,2020-03-07
+france,usa,2020-03-24
+spain,iceland,2020-03-18
+australia,united kingdom,2020-03-19
+france,australia,2020-03-20
+france,australia,2020-03-21
+france,slovakia,2020-03-06
+france,senegal,2020-03-20
+france,canada,2020-03-11
+france,democratic republic of the congo,2020-03-11
+france,canada,2020-03-07
+france,belgium,2020-03-04
+france,australia,2020-03-17
+france,democratic republic of the congo,2020-03-09
+france,usa,2020-03-17
+usa,argentina,2020-03-18
+usa,canada,2020-03-10
+usa,canada,2020-03-12
+egypt,japan,2020-03-09
+egypt,japan,2020-03-20
+belgium,democratic republic of the congo,2020-03-18
+italy,taiwan,2020-03-02
+usa,portugal,2020-03-13
+usa,brazil,2020-03-15
+usa,canada,2020-03-09
+usa,united kingdom,2020-03-28
+egypt,japan,2020-03-08
+spain,austria,2020-03-13
+usa,finland,2020-03-13
+usa,australia,2020-03-17
+egypt,japan,2020-03-10
+egypt,japan,2020-03-10
+usa,georgia,2020-03-14
+usa,france,2020-03-07
+usa,france,2020-03-12
+usa,united kingdom,2020-03-27
+usa,france,2020-02-26
+usa,norway,2020-03-05
+usa,france,2020-03-10
+usa,senegal,2020-03-18
+usa,united kingdom,2020-03-25
+usa,france,2020-02-21
+usa,france,2020-03-24
+usa,france,2020-03-07
+usa,france,2020-03-19
+usa,belgium,2020-03-14
+usa,france,2020-03-02
+austria,iceland,2020-03-03
+usa,portugal,2020-03-15
+usa,france,2020-03-04
+usa,canada,2020-03-11
+usa,russia,2020-03-18
+usa,denmark,2020-03-03
+usa,france,2020-03-07
+usa,australia,2020-03-20
+austria,iceland,2020-03-04
+usa,australia,2020-03-23
+usa,finland,2020-03-14
+usa,france,2020-02-26
+usa,australia,2020-03-21
+usa,france,2020-03-04
+usa,belgium,2020-03-05
+usa,netherlands,2020-03-01
+usa,france,2020-03-05
+usa,iceland,2020-03-17
+usa,france,2020-03-20
+france,portugal,2020-03-19
+france,algeria,2020-03-02
+united kingdom,usa,2020-03-12
+united kingdom,usa,2020-03-15
+usa,france,2020-03-02
+belgium,taiwan,2020-03-20
+usa,canada,2020-03-11
+usa,canada,2020-03-12
+usa,china,2020-03-23
+france,senegal,2020-03-03
+france,senegal,2020-02-28
+france,usa,2020-03-02
+france,senegal,2020-03-04
+france,senegal,2020-03-02
+france,usa,2020-02-29
+luxembourg,belgium,2020-03-19
+usa,france,2020-02-28
+united kingdom,germany,2020-03-15
+usa,iceland,2020-03-17
+austria,iceland,2020-03-04
+france,iceland,2020-03-10
+france,iceland,2020-03-06
+usa,australia,2020-03-16
+usa,france,2020-03-23
+united kingdom,finland,2020-03-08
+usa,germany,2020-03-10
+usa,canada,2020-03-12
+usa,united kingdom,2020-03-12
+usa,iceland,2020-03-07
+usa,canada,2020-03-07
+germany,usa,2020-03-15
+usa,luxembourg,2020-03-16
+usa,brazil,2020-03-19
+usa,australia,2020-03-18
+australia,usa,2020-03-17
+usa,australia,2020-03-21
+usa,canada,2020-03-12
+luxembourg,germany,2020-03-15
+luxembourg,canada,2020-03-11
+usa,norway,2020-03-10
+austria,iceland,2020-03-10
+austria,iceland,2020-03-10
+austria,usa,2020-03-11
+austria,luxembourg,2020-03-11
+luxembourg,iceland,2020-03-13
+luxembourg,usa,2020-03-13
+luxembourg,germany,2020-03-13
+usa,iceland,2020-03-18
+germany,usa,2020-03-13
+germany,finland,2020-03-13
+germany,finland,2020-03-13
+austria,iceland,2020-03-02
+france,usa,2020-03-25
+france,australia,2020-03-22
+usa,australia,2020-03-19
+usa,france,2020-03-19
+usa,iceland,2020-03-17
+usa,germany,2020-03-16
+france,australia,2020-03-21
+usa,france,2020-03-22
+usa,luxembourg,2020-03-14
+france,iceland,2020-03-09
+australia,iceland,2020-03-17
+belgium,georgia,2020-03-28
+austria,iceland,2020-03-17
+usa,australia,2020-03-18
+usa,australia,2020-03-19
+usa,france,2020-03-20
+usa,canada,2020-03-20
+usa,france,2020-03-08
+usa,finland,2020-03-13
+usa,australia,2020-03-20
+usa,united kingdom,2020-03-24
+usa,australia,2020-03-22
+usa,united kingdom,2020-03-22
+usa,austria,2020-03-11
+usa,luxembourg,2020-03-11
+germany,iceland,2020-03-11
+netherlands,finland,2020-03-13
+usa,canada,2020-03-13
+usa,australia,2020-03-14
+austria,iceland,2020-03-16
+usa,germany,2020-03-14
+germany,iceland,2020-03-16
+usa,germany,2020-03-14
+usa,france,2020-03-21
+usa,austria,2020-03-16
+usa,finland,2020-03-14
