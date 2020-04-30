@@ -1,56 +1,69 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap as Basemap
-from geopy.geocoders import Nominatim
-import csv
-geolocator = Nominatim(user_agent="geoapiExercises")
+import pickle
+import datetime
 
+def sub_graph(G,dates,pos,start,end):
+    nG = nx.DiGraph()
+    ndates = {}
+    npos={}
+    for tran in dates:
+        init = dates[tran]
+        new = []
+        for date in init:
+            if date >= start and date <= end:
+                new.append(date)
+        if len(new) > 0:
+            ndates[tran] = new
+            nG.add_node(tran[0])
+            nG.add_node(tran[1])
+            nG.add_edge(tran[0],tran[1],weight=len(new))
+            npos[tran[0]] =  pos[tran[0]]
+            npos[tran[1]] =  pos[tran[1]] 
+    return npos, nG, ndates
 
-plt.figure(figsize = (10,9))
+def getwidths(edges):
+	raw = [item[2]['weight'] for item in edges]
+	return [2*item/max(raw) for item in raw]
+#decryption
+aG = nx.read_gpickle("agraph.gpickle")
+pickle_in = open("adates.pickle","rb")
+a_dates = pickle.load(pickle_in)
+pickle_in = open("apos.pickle","rb")
+apos = pickle.load(pickle_in)
 
-#m = Basemap(projection='merc', llcrnrlon=-190, llcrnrlat=25, urcrnrlon=-60, urcrnrlat=50, lat_ts=0, resolution='i', suppress_ticks=True)
+mG = nx.read_gpickle("mgraph.gpickle")
+pickle_in = open("mdates.pickle","rb")
+m_dates = pickle.load(pickle_in)
+pickle_in = open("mpos.pickle","rb")
+mpos = pickle.load(pickle_in)
 
-m = Basemap(llcrnrlon=-160, llcrnrlat=-60,urcrnrlon=160,urcrnrlat=70,resolution='l',suppress_ticks=True)
+date = datetime.datetime(2020, 1, 1, 0, 0)
+end_date = date
+tt=7
+for i in range(12):
+	#start_date = date
+	start_date = end_date
+	end_date = start_date + datetime.timedelta(days=tt)
+	#aapos, aaG,aa_dates =sub_graph(aG,a_dates,apos,start_date,end_date)
+	aapos, aaG,aa_dates = sub_graph(mG,m_dates,mpos,start_date,end_date)
+	'''print(len(aG.nodes()),len(aaG.nodes()))
+	print(len(aG.edges.data()), len(aaG.edges.data()))
+	print(len(a_dates),len(aa_dates))'''
 
-#m = Basemap(projection='merc',llcrnrlat=-80,urcrnrlat=80,llcrnrlon=-180,urcrnrlon=180,lat_ts=20,resolution='i',suppress_ticks=True)
-input_file=open('country_tran.csv' , "r") #'COVID19_Data_CSV.csv'
-reader = csv.reader(input_file, delimiter=',')
-
-transmissions=[]
-dats=[]
-j = 0
-for line in reader:
-	if j == 0:
-		j = j + 1
-		continue
-	source = line[1].split(',')[0].lower().strip()
-	destination = line[2].split(',')[0].lower().strip()
-	transmissions.append((source,destination))
-	date = line[3]
-	dats.append(date)
-
-#transmissions = [('Paris','London'),('Tehran','Atlanta')]
-G=nx.DiGraph()
-#G = nx.Graph()
-pos={}
-city_size={}
-for count,tr in enumerate(transmissions):
-	src = geolocator.geocode(tr[0])
-	des = geolocator.geocode(tr[1])
-	#print(tr[0],tr[1])
-	G.add_node(tr[0])
-	G.add_node(tr[1])
-	G.add_edge(tr[0],tr[1])
-	pos[tr[0]]=(src.longitude, src.latitude)
-	pos[tr[1]]=(des.longitude, des.latitude)
-print(G.nodes())
-# draw
-nx.draw_networkx_nodes(G,pos,node_list = G.nodes(),node_color = 'r', alpha = 0.8, node_size = 30)
-nx.draw_networkx_edges(G,pos, edge_color='y', alpha=0.8,arrows = True)
-# Now draw the map
-m.drawcountries(linewidth = 1.5)
-m.drawstates(linewidth = 0.6)
-m.bluemarble()
-m.drawcoastlines(linewidth=1.5)
-plt.tight_layout()
-plt.show()
+	# draw
+	plt.figure(figsize = (10,9))
+	m = Basemap(llcrnrlon=-160, llcrnrlat=-60,urcrnrlon=160,urcrnrlat=70,resolution='l',suppress_ticks=True)
+	nx.draw_networkx_nodes(aaG,aapos,node_list = aaG.nodes(),node_color = 'r', alpha = 1, node_size = 40)
+	nx.draw_networkx_edges(aaG,aapos,width = getwidths(aaG.edges.data()), edge_color='w', alpha=1,arrows = True)
+	# Now draw the map
+	m.drawcountries(linewidth = 1.5)
+	m.drawstates(linewidth = 0.6)
+	m.bluemarble()
+	m.drawcoastlines(linewidth=1.5)
+	plt.tight_layout()
+	plt.title('Date Range: From '+start_date.strftime("%Y-%m-%d")+ ' to '+end_date.strftime("%Y-%m-%d"))
+	plt.savefig('pic_actual/'+str(i+1)+'.png', format = "png", dpi = 300,bbox_inches='tight')
+	print(i+1)
+	#plt.show()
